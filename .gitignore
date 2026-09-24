@@ -1,0 +1,19 @@
+# Datos (no se versionan: pesan y son del INE)
+working_dir/raw/
+working_dir/parquet/
+working_dir/models/
+working_dir/figures/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Sistema
+.DS_Store
+Thumbs.db
