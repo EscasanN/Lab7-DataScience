@@ -17,3 +17,5 @@ derby.log
 # Sistema
 .DS_Store
 Thumbs.db
+
+temp/*
